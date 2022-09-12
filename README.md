@@ -7,4 +7,4 @@ Used technologies:
 - BEM
 - JS
 
-[Figma design]https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
+[Figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
